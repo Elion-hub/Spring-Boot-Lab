@@ -90,7 +90,7 @@ Interfaz gráfica de ejemplo:
 * 📌 Tabla con los libros almacenados
 * 📌 Botones para agregar, modificar y eliminar registros
 
-![Tienda_libros]()
+![Tienda_libros](https://raw.githubusercontent.com/Elion-hub/Spring-Boot-Lab/main/Tienda_libros/TiendaLibros.PNG)
 
 ---
 
@@ -114,4 +114,4 @@ Es especialmente útil para:
 
 ---
 
-👨‍💻 Desarrollado por **Elion**
+👨‍💻 Desarrollado por **Jose Maria Garcia**
