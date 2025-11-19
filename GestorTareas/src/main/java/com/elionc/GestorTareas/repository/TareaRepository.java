@@ -5,5 +5,5 @@ import com.elionc.GestorTareas.models.Tarea;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 //2
-public class TareaRepository  extends JpaRepository<Tarea, Integer> {
+public interface TareaRepository  extends JpaRepository<Tarea, Integer> {
 }
